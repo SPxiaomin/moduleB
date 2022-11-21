@@ -1,3 +1,3 @@
 import 'modulea';
 
-console.log('moduleB');
+console.log('moduleB v3');

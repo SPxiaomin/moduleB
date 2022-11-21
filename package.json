@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "modulea": "github:SPxiaomin/moduleA"
+    "modulea": "github:SPxiaomin/moduleA#v2"
   }
 }
